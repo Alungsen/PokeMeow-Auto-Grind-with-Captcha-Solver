@@ -5,7 +5,7 @@ This is an Auto-Grind Bot made for Pokemeow. This is an efficient and a feature-
 This bot can currently handle :
 1. Captcha Solving (with the help of AzCaptcha)
 - 60% Captcha solving accuracy.
-- Automatically coninues grinding after doing the captcha.
+- Automatically continues grinding after doing the captcha.
 - It will stop if it sends an Incorrect Response.
 2. Fishing which can be enabled/disabled through `config.py`.
 3. Throw Pokeballs depending on the rarity of the Pokemon.
