@@ -26,7 +26,7 @@ This bot can currently handle :
 2. If not done already download this repo on your computer as zip and unzip it.
 3. Inside of the repo type the following command `python -m pip install -r requirements.txt` (If your on a linux distribution or MacOS you got a specify the python version so it's `python3 ...`)
 4. Make an account on AzCaptcha by going to https://azcaptcha.com/account/signup.
-5. Copy and paste you AzCaptcha account token in `config.py`.
+5. Copy and paste your AzCaptcha account token in `config.py`.
 6. In `config.py` edit more variables like `username, token, wildchannelid, channelid_fish, cheap_legie_ball` according to your convenience.
 
 ### On your discord
