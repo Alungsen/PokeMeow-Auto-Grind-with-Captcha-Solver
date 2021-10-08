@@ -18,6 +18,11 @@ This bot can currently handle :
 - 0.2 to 0.3 seconds delay before sending any messages.
 - Send messages like gg, nice, etc after catching a shiny or an expensive legendary. 
 
+## Upcoming Features
+1. More options to change in config
+2. Auto-Buy Balls
+3. Queue AzCaptcha Accounts (automatically change accounts if balance equals zero)
+4. Add support for AntiCaptcha API (95% Captcha Accuracy)
 
 ## Installating
 
