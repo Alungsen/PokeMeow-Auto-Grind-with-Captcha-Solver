@@ -32,7 +32,7 @@ async def hunt(rarity, name, description, client):
                 await channel.send("gb")
 
         elif (rarity('Shiny (Full-odds') != -1):
-          await channel.send("mb")
+          await channel.send("prb")
           GoodPoke += 1
             
         elif (rarity('Shiny') != -1):
