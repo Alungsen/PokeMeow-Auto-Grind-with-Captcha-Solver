@@ -48,7 +48,7 @@ This bot can currently handle :
 ## Stoping
 To stop the program simply close the command prompt.
 
-## Disclamer ⚠️
+## Disclaimer ⚠️
 - We're of course not responsible for any ban you recieve for using this bot.
 - The captcha solver accuracy is only around 60% so please keep an eye on the bot.
 - DO NOT run fishing and hunting in the same servers.
