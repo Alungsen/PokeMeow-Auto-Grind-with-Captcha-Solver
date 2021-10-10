@@ -23,6 +23,8 @@ This bot can currently handle :
 2. Auto-Buy Balls
 3. Queue AzCaptcha Accounts (automatically change accounts if balance equals zero)
 4. Add support for AntiCaptcha API (95% Captcha Accuracy)
+5. Handle Eggs
+6. Auto Release Duplicates
 
 ## Installating
 
