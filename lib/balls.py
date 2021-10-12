@@ -20,7 +20,7 @@ async def pokeball(footer, channel):
    gfin = int(fin)
   if gfin <= pokeballs_left: 
     await channel.trigger_typing()
-    await asyncio.sleep(1)
+    await asyncio.sleep(3)
     await channel.send(';s b 1 ' + str(pokeballs))
 
 async def ultraball(footer, channel):
@@ -38,7 +38,7 @@ async def ultraball(footer, channel):
    gfin = int(fin)
   if gfin <= ultraballs_left: 
    await channel.trigger_typing()
-   await asyncio.sleep(1)
+   await asyncio.sleep(3)
    await channel.send(';s b 3 ' + str(ultraballs))
 
 async def greatball(footer, channel):
@@ -56,7 +56,7 @@ async def greatball(footer, channel):
    gfin = int(fin)
   if gfin <= greatballs_left: 
    await channel.trigger_typing()
-   await asyncio.sleep(1)
+   await asyncio.sleep(3)
    await channel.send(';s b 2 ' + str(greatballs))
 
 async def masterball(footer, channel):
@@ -74,5 +74,5 @@ async def masterball(footer, channel):
    gfin = int(fin)
   if gfin <= masterballs_left: 
    await channel.trigger_typing()
-   await asyncio.sleep(1)
+   await asyncio.sleep(3)
    await channel.send(';s b 4 ' + str(masterballs))
