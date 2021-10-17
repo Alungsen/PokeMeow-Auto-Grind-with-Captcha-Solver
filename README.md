@@ -14,6 +14,9 @@ This bot can currently handle :
 - Throws prb/ub (depending on the config) on Cheap Legendaries! (you can change the list of cheap legendaries in the config)
 - Throws mb/prb/ub on Alolan Event Exclusives
 - Which balls to throw on which rarity can be changed in the config.
+5. Handle Eggs
+- Automatically hatch and hold eggs 
+- Keep a log of how many eggs have been hatched till the time 
 
 ## Suspicion Avoidance Features
 - Typing Triggers on each and every message.
@@ -23,9 +26,8 @@ This bot can currently handle :
 
 ## Upcoming Features
 1. Add support for AntiCaptcha API (95% Captcha Accuracy)
-2. Handle Eggs
-3. Auto Release Duplicates
-4. Captcha Notifier (play sound if a captcha appears)
+2. Auto Release Duplicates
+3. Captcha Notifier (play sound if a captcha appears)
 
 ## Installating
 
